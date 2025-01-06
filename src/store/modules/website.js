@@ -13,10 +13,7 @@ export default {
 			{ carousel_id : 5 , carousel_image : 'carousel05.jpg' }
 		],
 		/*  当前选中的轮播图  */
-		carousel_current: { carousel_id: 1, carousel_image: 'carousel01.jpg' },
-		
-		/*  首页 搜索栏 数据  */
-		
+		carousel_current : { carousel_id : 1 , carousel_image : 'carousel01.jpg' }
 		
 	},
 	mutations: {

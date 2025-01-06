@@ -1,22 +1,23 @@
 <template>
-	<div class="d-flex flex-wrap">
-		<Spu v-for="spu of spuList"
-			:key="`spu-${spu.spu_id}`"
-			:spu="spu"></Spu>
-	</div>
+  <div class="d-flex flex-wrap">
+    <SpuPage
+      v-for="spu of spuList"
+      :key="`spu-${spu.spu_id}`"
+      :spu="spu"
+    ></SpuPage>
+  </div>
 </template>
 
 <script>
 // 导入 组件
-import Spu from '@/components/Spu.vue'
+import SpuPage from "@/components/SpuPage.vue";
 
 export default {
-	components:{
-		'Spu' : Spu
-	},
-	props:["spuList"]
-}
+  components: {
+    SpuPage,
+  },
+  props: ["spuList"],
+};
 </script>
 
-<style>
-</style>
+<style></style>

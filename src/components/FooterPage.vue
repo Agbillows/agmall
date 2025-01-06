@@ -44,17 +44,17 @@
       </div>
       <div class="footer-right">
         <div class="footer-right-column">
-          <img src="/index_bottom_wechat.png" />
+          <img src="/QR.png" />
           <div class="footer-right-primary">AgAPP</div>
           <div class="footer-right-primary">扫描立即下载</div>
         </div>
         <div class="footer-right-column">
-          <img src="/index_bottom_wechat.png" />
+          <img src="/QR.png" />
           <div class="footer-right-primary">Ag商城</div>
           <div class="footer-right-primary">订阅号</div>
         </div>
         <div class="footer-right-column">
-          <img src="/index_bottom_wechat.png" />
+          <img src="/QR.png" />
           <div class="footer-right-primary">Ag商城</div>
           <div class="footer-right-primary">官方服务号</div>
         </div>
