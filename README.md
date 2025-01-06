@@ -1,4 +1,4 @@
-# atstudy_mall
+# ag_mall
 
 ## Project setup
 ```
